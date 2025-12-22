@@ -6,7 +6,7 @@ Professor Diogo Branquinho Ramos
 **Lab:** [EX7 - FATEClando App.pdf](lab/EX7.pdf)
 
 ## EX7 - FATEClando App
-****
+
 > ***Importante 1:*** Este atividade utiliza os projetos desenvolvidos nas atividades anteriores ([EX 06 - Criptografia e Socket](https://github.com/rtrevizoli/tbi005/blob/develop/ex6/REPORT.md)):
 > * Para criptografia: [@rtrevizoli/Encryption](https://github.com/rtrevizoli/Encryption/);
 > * Para sockets: [@rtrevizoli/Socket](https://github.com/rtrevizoli/Socket/).
